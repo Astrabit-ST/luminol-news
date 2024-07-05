@@ -25,4 +25,12 @@ Inline [link](https://example.com)
 ---
 
 bonkers bananas
+
 Here's how you can make **BADASS** and _italian_ text.
+
+[x] Checked checkbox
+[ ] Unchecked checkbox
+
+wowie zowie!
+
+Will ~~strikethrough~~ and **underlines** work? We'll see...

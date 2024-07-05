@@ -1,6 +1,7 @@
 {
   "new-site.md": {
     "title": "The new website is live!",
+    "thumbnail": "https://raw.githubusercontent.com/Astrabit-ST/luminol-news/main/luminol-thumbnail.jpg",
     "timestamp": 1720162800000,
     "tags": [
       "website",
@@ -11,7 +12,7 @@
   "test.md": {
     "title": "Testing Post!",
     "timestamp": 1720155992163,
-    "thumbnail": "https://picsum.photos/640/360",
+    "thumbnail": "https://picsum.photos/1280/720",
     "tags": [
       "test",
       "markdown"

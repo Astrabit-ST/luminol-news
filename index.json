@@ -1,0 +1,11 @@
+[
+  {
+    "filename": "test.md",
+    "title": "This is the first post!",
+    "timestamp": 1720139836000,
+    "tags": [
+      "TEST",
+      "FEATURE"
+    ]
+  }
+]

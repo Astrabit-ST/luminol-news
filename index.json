@@ -1,11 +1,12 @@
 [
   {
-    "filename": "test.md",
-    "title": "This is the first post!",
-    "timestamp": 1720139836000,
+    "filename": "new-site.md",
+    "title": "The new website is live!",
+    "timestamp": 1720162800,
     "tags": [
-      "TEST",
-      "FEATURE"
+      "website",
+      "events",
+      "event-editor"
     ]
   }
 ]

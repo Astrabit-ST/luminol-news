@@ -9,13 +9,4 @@
       "event-editor"
     ]
   },
-  "test.md": {
-    "title": "Testing Post!",
-    "timestamp": 1720155992163,
-    "thumbnail": "https://picsum.photos/1280/720",
-    "tags": [
-      "test",
-      "markdown"
-    ]
-  }
 }
